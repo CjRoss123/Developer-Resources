@@ -1,6 +1,6 @@
 # Developer-Resources
 
-The Developer Resources repository is a webpage where the user is able to access information regarding HTML, CSS, and Javascript coding, Github and Visual Studio coding platforms, and databanks of fonts and colors. 
+The Developer Resources repository has a webpage where the user is able to access information regarding HTML, CSS, and Javascript coding, Github and Visual Studio coding platforms, and databanks of fonts and colors. 
 
 # Function
 
