@@ -7,7 +7,11 @@ body {
 	color: #046B99;
 }
 
+#content {
+	max-width: 70vw;
+	margin: 0 auto;
+}
 
-.highlight {
-	color: #00CFFF;
+.header {
+	padding: 5vh 0;
 }
