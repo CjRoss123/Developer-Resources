@@ -1,1 +1,3 @@
-document.getElementById("id").style.color = "blue";
+function changeColor() {
+  document.getElementById("resource").style.color = "red";
+}
